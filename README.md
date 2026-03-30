@@ -1,4 +1,5 @@
-# 🛡️ Am I Authorised
+# 🛡️ RBAC - Role-Based Access Control
+# Am I Authorised
 
 **Am I Authorised** is a **role-based access control (RBAC)** application that demonstrates fine-grained permission management in a modern web application. The system enforces **backend-driven authorization**, so pages, menus, buttons, and options are enabled or disabled based on the logged-in user’s role and permissions. The frontend is intentionally “dumb” — all control logic is enforced by the backend via JWT claims.
 
